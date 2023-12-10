@@ -1,0 +1,31 @@
+body{
+  background-color: burlywood;
+}
+.eventname{
+  margin-top:3%;
+  font-family:'gill sans','gill sans MT' ;
+font-style:italic;
+text-align:center;
+background-color: aqua;
+
+}
+p{
+  text-align: center;
+}
+h1{
+  text-align: center;
+  color:black ;
+  font-style: bold;
+}
+.container{
+  float:left;
+}
+.form label{
+  display: inline-block;
+  text-align: right;
+  
+}
+
+.name{
+  text-align: center;
+}
