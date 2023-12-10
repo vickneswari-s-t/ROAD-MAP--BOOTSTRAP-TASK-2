@@ -17,15 +17,12 @@ h1{
   color:black ;
   font-style: bold;
 }
-.container{
-  float:left;
-}
-.form label{
-  display: inline-block;
-  text-align: right;
-  
+
+
+.form-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
 }
 
-.name{
-  text-align: center;
-}
